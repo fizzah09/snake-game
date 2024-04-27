@@ -1,6 +1,4 @@
-Certainly! Here's a README.md file for the Snake game code:
 
----
 
 # Snake Game
 
